@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Verify Portfolio
-        run: echo "Portfolio deployed successfully!"
+        run: echo "Portfolio workflow ran successfully!"
